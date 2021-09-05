@@ -5,6 +5,7 @@ body {
           box-sizing: border-box;
   font-family: poppins;
   width: 100vw;
+  overflow-x: hidden;
 }
 
 .navbar {
@@ -52,7 +53,7 @@ main .container {
 }
 
 main .container .wallpaper {
-  width: 60vw;
+  width: 70vw;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -83,7 +84,6 @@ main .container .wallpaper .picture img {
 
 main .container .wallpaper .bar {
   width: 100%;
-  max-width: 100%;
   background-color: beige;
   display: -ms-grid;
   display: grid;
@@ -122,9 +122,11 @@ main .container .wallpaper .bar .title p {
 }
 
 main .container .wallpaper .bar .buttons {
+  margin: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  width: 100%;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -136,6 +138,11 @@ main .container .wallpaper .bar .buttons button {
   border: none;
   cursor: pointer;
   padding: .8em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
 }
 
 main .container .wallpaper .bar .buttons button img {
@@ -146,9 +153,9 @@ main .container .wallpaper .bar .buttons button img {
 main .container .wallpaper .bar .buttons button.button-enlarge {
   background-color: #0d6efd;
   border-radius: 10px;
-  margin-right: 1.5em;
   -webkit-transition: 150ms ease;
   transition: 150ms ease;
+  margin-right: 1em;
 }
 
 main .container .wallpaper .bar .buttons button.button-enlarge:hover {
@@ -164,6 +171,7 @@ main .container .wallpaper .bar .buttons button.button-download {
   border-radius: 10px;
   -webkit-transition: 150ms ease;
   transition: 150ms ease;
+  margin-left: 1em;
 }
 
 main .container .wallpaper .bar .buttons button.button-download:hover {
@@ -281,6 +289,22 @@ main .container .wallpaper .bar .buttons button.button-download:active {
   }
   main .container .bar .title {
     margin-left: 0 !important;
+  }
+  .footer {
+    height: 100%;
+  }
+  .footer .container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .footer .container .menu {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: center;
   }
 }
 /*# sourceMappingURL=style.css.map */
