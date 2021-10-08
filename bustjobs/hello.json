@@ -1,0 +1,74 @@
+[
+  {
+    "Movie Star" : 
+      [
+        {
+          "Level" : 1,
+          "Job" : "Mall Clown",
+          "Desription" : "A Job is a job... and hey, you get to dress like a clown at the mall - hard to beat that. Keep passing out those dumb balloons, hinking that annoying horn, and maybe you get noticed someday.",
+          "Salary" : 100
+        },
+        {
+          "Level" : 2,
+          "Job" : "Kiddie Show Sidekick",
+          "Desription" : "You're in luck! The Grumpy Hamster Show and people saw your clown act at the mall and hired you for their new kiddie show! Keep smiling and turn up your CHARISMA if you ever want out of this sad existence.",
+          "Salary" : 150
+        },
+        {
+          "Level" : 3,
+          "Job" : "Stunt Double",
+          "Desription" : "That freak accident where you set your hamster suit on fire impressed the studio so much, they promoted you to stunt double! Build up that BODY and make some friends quick, so you can land a real acting gig.",
+          "Salary" : 200
+        },
+        {
+          "Level" : 4,
+          "Job" : "Horror Movie Extra",
+          "Desription" : "You looked so good covered in blood after your last stunt accident, they decided to put you in horror movies! Get more CREATIVE... or you're career level will be they only scary thing around there.",
+          "Salary" : 275
+        },
+        {
+          "Level" : 5,
+          "Job" : "Soap Opera Star",
+          "Desription" : "Finally, a real acting job! It's only TV, but you're being seen by millions! The hours are long and your fans are sad... and really boring. See if your friends can hook you up with something more hip, before you burn out.",
+          "Salary" : 375
+        }
+      ]
+  },
+  {
+    "Mad Scientist" : 
+      [
+
+      ]
+  },
+  {
+    "Gangster" : 
+      [
+
+      ]
+  },
+  {"Fashion Victim" : 
+      [
+
+      ]
+  },
+  {"Paramilitary" : 
+      [
+
+      ]
+  },
+  {
+    "Counter Culture" : 
+      [
+
+      ]
+  },
+  {
+    "Jock" : 
+      [
+
+      ]
+  }
+
+
+
+]
