@@ -36,8 +36,5 @@ We can change the return value using queries available from the server. This par
 
 <pre id="preFetch" url="http://localhost:8000/api/bustjobs?job=Inventor"><code id="codeFetch"></code></pre>
 
-
-
 # Credits
-
 Many thanks for EA Games and Maxis Entertainment for the amazing The Sims Bustin Out game for PS2. I still in love with this game :)
