@@ -1,10 +1,11 @@
 
 <div class="title">Bustjobs API</div>
+<div class="credit">From The Sims Bustin Out by EA and Maxis games</div>
 
 # Introduction
 This is a Bustjobs API that you can fetch using link below
 
-`http://localhost:8000/api/bustjobs`
+<p><code class="api-url"></code></p>
 
 # Return Value
 The return value will be the category, job, description, and salary.
@@ -32,9 +33,6 @@ We can change the return value using queries available from the server. This par
   Limits the amount of query sorted by ID. Any invalid number will be treated as no limit.
 
 # Example
-`http://localhost:8000/api/bustjobs?job=Inventor`
+<p><code class="example-url"></code></p>
 
-<pre id="preFetch" url="http://localhost:8000/api/bustjobs?job=Inventor"><code id="codeFetch"></code></pre>
-
-# Credits
-Many thanks for EA Games and Maxis Entertainment for the amazing The Sims Bustin Out game for PS2. I still in love with this game :)
+<pre id="preFetch" url=""><code id="codeFetch" class="example-url"></code></pre>

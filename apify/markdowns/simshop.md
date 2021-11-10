@@ -1,10 +1,11 @@
 
 <div class="title">Simshop API</div>
+<div class="credit">From The Sims Bustin Out by EA and Maxis games</div>
 
 # Introduction
 This is a SimShop API that you can fetch using link below
 
-`http://localhost:8000/api/simshop`
+<p><code class="api-url"></code></p>
 
 # Return Value
 The return value will be the category, id, name, image URL, description, stock, and price.
@@ -22,5 +23,6 @@ We can change the return value using queries available from the server. This par
   Finds a product according to name.
 
 # Example
-`http://localhost:8000/api/simshop?id=2`
-<pre id="preFetch" url="http://localhost:8000/api/simshop?id=2"><code id="codeFetch"></code></pre>
+<p><code class="example-url"></code></p>
+
+<pre id="preFetch" url=""><code id="codeFetch" class="example-url"></code></pre>

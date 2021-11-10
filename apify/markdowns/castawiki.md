@@ -1,10 +1,11 @@
 
 <div class="title">Castawiki API</div>
+<div class="credit">From The Sims Bustin Out by EA and Maxis games</div>
 
 # Introduction
 This is a Castawiki API that you can fetch using link below
 
-`http://localhost:8000/api/castawiki`
+<p><code class="api-url"></code></p>
 
 # Return Value
 The return value will be the category, id, name, image URL, and description.
@@ -22,6 +23,6 @@ We can change the return value using queries available from the server. This par
   Finds a product according to name.
 
 # Example
-`http://localhost:8000/api/castawiki?id=1`
+<p><code class="example-url"></code></p>
 
-<pre id="preFetch" url="http://localhost:8000/api/castawiki?id=1"><code id="codeFetch"></code></pre>
+<pre id="preFetch" url=""><code id="codeFetch" class="example-url"></code></pre>
