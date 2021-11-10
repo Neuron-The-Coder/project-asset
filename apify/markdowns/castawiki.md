@@ -23,6 +23,6 @@ We can change the return value using queries available from the server. This par
   Finds a product according to name.
 
 # Example
-<p><code class="example-url"></code></p>
+<p><code id="example-url"></code></p>
 
-<pre id="preFetch" url=""><code id="codeFetch" class="example-url"></code></pre>
+<pre id="pre-fetch" url=""><code id="example-fetch"></code></pre>

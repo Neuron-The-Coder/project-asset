@@ -33,6 +33,6 @@ We can change the return value using queries available from the server. This par
   Limits the amount of query sorted by ID. Any invalid number will be treated as no limit.
 
 # Example
-<p><code class="example-url"></code></p>
+<p><code id="example-url"></code></p>
 
-<pre id="preFetch" url=""><code id="codeFetch" class="example-url"></code></pre>
+<pre id="pre-fetch" url=""><code id="example-fetch"></code></pre>
