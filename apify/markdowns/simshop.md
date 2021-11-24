@@ -1,6 +1,6 @@
 
 <div class="title">Simshop API</div>
-<div class="credit">From The Sims Bustin Out by EA and Maxis games</div>
+<div class="credit">From The Sims 2 Pets by EA and Maxis games</div>
 
 # Introduction
 This is a SimShop API that you can fetch using link below

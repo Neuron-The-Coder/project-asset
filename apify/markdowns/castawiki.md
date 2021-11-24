@@ -1,6 +1,6 @@
 
 <div class="title">Castawiki API</div>
-<div class="credit">From The Sims Bustin Out by EA and Maxis games</div>
+<div class="credit">From The Sims 2 Castaway PS2 games by The Electronic Arts</div>
 
 # Introduction
 This is a Castawiki API that you can fetch using link below
